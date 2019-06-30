@@ -1,4 +1,4 @@
-package djangotest.luisalabsemployeemanager;
+package com.djangotest.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class LuisalabsEmployeeManagerApplicationTests {
+public class LuizalabsEmployeeManagerApplicationTests {
 
 	@Test
 	public void contextLoads() {

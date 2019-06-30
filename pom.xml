@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>djangotest</groupId>
-	<artifactId>luisalabs-employee-manager</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>luisalabs-employee-manager</name>
+	<artifactId>luizalabs-employee-manager</artifactId>
+	<version>1.0.0-RELEASE</version>
+	<name>luizalabs-employee-manager</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
